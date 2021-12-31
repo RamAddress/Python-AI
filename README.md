@@ -1,5 +1,5 @@
 # Python-AI
-AI for transform string data array to formatted address
+AI for transform string data array to formatted address  
 updated 01/01/2022  
 # Цель - создать модель ИИ, работащий по ключевым признакам с кусками алгоритма
 _____________________________________________________________________________
