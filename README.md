@@ -1,5 +1,6 @@
 # Python-AI
 AI for transform string data array to formatted address
+updated 01/01/2022  
 # Цель - создать модель ИИ, работащий по ключевым признакам с кусками алгоритма
 _____________________________________________________________________________
 # Цели (этапы разработки):  
@@ -10,6 +11,4 @@ _____________________________________________________________________________
 # Confluence  
 https://mexdev-ru.atlassian.net/wiki/spaces/MONP  
 # Google Drive  
-https://drive.google.com/drive/folders/167MIUTWuMaCrcb0WpSgeylJkvrOOXvyO  
-
-* updated 01/01/2022  
+https://drive.google.com/drive/folders/167MIUTWuMaCrcb0WpSgeylJkvrOOXvyO   
