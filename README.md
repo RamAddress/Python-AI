@@ -8,3 +8,5 @@ _____________________________________________________________________________
 * 3 предоставляем заказчику инструмент на облачном смервисе(токен доступа к нему) для улучшения работы алгоритма(доступа к прмоежуточным данным)  
 # Confluence  
 https://mexdev-ru.atlassian.net/wiki/spaces/MONP  
+# Google Drive  
+https://drive.google.com/drive/folders/167MIUTWuMaCrcb0WpSgeylJkvrOOXvyO  
